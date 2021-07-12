@@ -1,5 +1,6 @@
 # Site de shows responsivo com modo noturno
-link do site criado: https://fernandamakihirose.github.io/site-de-shows-responsivo/
+- Criei template de um site de shows responsivo, com modo noturno, utilizando HTML, CSS e Javascript.
+- <a href="https://fernandamakihirose.github.io/site-de-shows-responsivo/">Clique aqui para ver o site</a> 
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
